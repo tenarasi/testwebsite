@@ -1,0 +1,15 @@
+tejam@LAPTOP-S8HQREGO MINGW64 ~/Documents/Devops/Demo project (master)
+$   git commit project.html -m "initial commit"
+[master (root-commit) 5d67deb] initial commit
+ 1 file changed, 10 insertions(+)
+ create mode 100644 project.html
+
+tejam@LAPTOP-S8HQREGO MINGW64 ~/Documents/Devops/Demo project (master)
+$   git status
+On branch master
+nothing to commit, working tree clean
+
+tejam@LAPTOP-S8HQREGO MINGW64 ~/Documents/Devops/Demo project (master)
+$
+
+
